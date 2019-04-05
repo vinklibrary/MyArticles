@@ -6,8 +6,8 @@ Extract：用于保存自己的文字摘抄
 TechSummary:用于保存自己写的技术文章
 
 todo：
-1. WorkDiary/上班第一周总结.md
-2. Extract/201904摘抄.md
+1. WorkDiary/上班第一周总结.md(finised)
+2. Extract/201904摘抄.md()
 3. TechSummary/图特征总结.md
 4. TechSummary/HiveSql优化总结.md
 5. TechSummary/Hive时间窗口总结.md
