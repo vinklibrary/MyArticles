@@ -13,6 +13,8 @@ todo：
 5. TechSummary/Hive时间窗口总结.md
 6. TechSummary/传统风控中的技术分析.md
 7. TechSummary/关于金融反欺诈的总结.md
+8. TechSummary/基于机器学习的金融风险控制综述.md
+9. TechSummary/GiveMeSomeCredit建模分享.md
 
 finished:
 1. WorkDiary/上班第一周总结
