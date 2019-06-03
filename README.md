@@ -15,6 +15,10 @@ todo：
 7. TechSummary/关于金融反欺诈的总结.md
 8. TechSummary/基于机器学习的金融风险控制综述.md
 9. TechSummary/GiveMeSomeCredit建模分享.md
+0. TechSummary/Jdata总结
+1. TechSummary/WhatWeTalk/谈逻辑回归我们谈什么
+2. TechSummary/WhatWeTalk/谈推荐系统我们谈什么
+3. WirkFiary/谈工作专业性和工作自由度问题
 
 finished:
 1. WorkDiary/上班第一周总结
